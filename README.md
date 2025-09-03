@@ -16,6 +16,8 @@ Add yourself to the list below. (Please keep the list alphabetized by last name.
 
 Jianping Chen: alanchen8647
 
+Leonardo Cuapio: leocuapio
+
 Ronnie Ng: ronnien6313
 
 James Sundstrom: JamesSundstrom

@@ -35,11 +35,15 @@ def dereck():
     ascii = [68, 101, 114, 101, 99, 107]
     return ''.join(chr(val) for val in ascii)
 
+def leonardo():
+    vals = [76, 101, 111, 110, 97, 114, 100, 111]
+    return "".join(chr(h) for h in vals)
+
 #------------------------------------------------------------------------------
 
 
 # Add your function to the list here
-NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie]
+NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, leonardo]
 
 # Don't edit this
 for f in NAME_FUNCTIONS:
