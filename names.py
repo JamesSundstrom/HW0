@@ -32,11 +32,14 @@ def dereck():
     ascii = [68, 101, 114, 101, 99, 107]
     return ''.join(chr(val) for val in ascii)
 
+def yihui():
+    l_e_t_t_e_r_s = [89, 105, 104, 117, 105]
+    return ''.join(chr(l_e_t_t_e_r) for l_e_t_t_e_r in l_e_t_t_e_r_s)
 #------------------------------------------------------------------------------
 
 
 # Add your function to the list here
-NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck]
+NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, yihui]
 
 
 # Don't edit this
