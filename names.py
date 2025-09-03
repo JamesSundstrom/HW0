@@ -35,11 +35,18 @@ def dereck():
     ascii = [68, 101, 114, 101, 99, 107]
     return ''.join(chr(val) for val in ascii)
 
+def dan():
+    dans_name = ["A", "a", "a", "A", "A", "a", "a", "a", "a", "a", "a"]
+    letter_index = [3,0,13, -33, 10, 14, 11, 14, 13, 0, 24]
+    for i in range(len(dans_name)):
+        dans_name[i] = chr(ord(dans_name[i]) + letter_index[i])
+
+    return "".join(dans_name)
 #------------------------------------------------------------------------------
 
 
 # Add your function to the list here
-NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie]
+NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, dan]
 
 # Don't edit this
 for f in NAME_FUNCTIONS:
