@@ -24,9 +24,9 @@ Hasib Shaif: hasibshaif
 
 Anis Tarafdar: anistarafdar
 
-Gregory Tomchuk: gtomchuk2005
-
 Dereck Taverne: DereckTav
+
+Gregory Tomchuk: gtomchuk2005
 
 
 ## Idea Box
@@ -35,7 +35,7 @@ Edit below for any idea you're looking to work on with classmates with your name
 
 - Video Game (Anis is interested in this!)
     - Unreal Engine project?
-    - game engine from scratch?
+      game engine from scratch?
 - Machine Learning
     - fafake news detector ?
     - facial recognition?
