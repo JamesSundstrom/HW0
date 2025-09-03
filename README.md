@@ -19,6 +19,7 @@ James Sundstrom: JamesSundstrom
 Hasib Shaif: hasibshaif
 Anis Tarafdar: anistarafdar
 Gregory Tomchuk: gtomchuk2005
+Dereck Taverne: DereckTav
 
 
 ## Idea Box
