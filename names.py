@@ -28,11 +28,15 @@ def gregory():
     letters = [71, 114, 101, 103, 111, 114, 121]
     return ''.join(chr(letter) for letter in letters)
 
+def dereck():
+    ascii = [68, 101, 114, 101, 99, 107]
+    return ''.join(chr(val) for val in ascii)
+
 #------------------------------------------------------------------------------
 
 
 # Add your function to the list here
-NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory]
+NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck]
 
 
 # Don't edit this
