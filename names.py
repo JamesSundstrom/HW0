@@ -27,6 +27,9 @@ def anis():
 def gregory():
     letters = [71, 114, 101, 103, 111, 114, 121]
     return ''.join(chr(letter) for letter in letters)
+def ronnie(): 
+    l = [114,111,110,110,105,101] 
+    return ''.join(chr(i) for i in l)
 
 def dereck():
     ascii = [68, 101, 114, 101, 99, 107]
@@ -36,8 +39,7 @@ def dereck():
 
 
 # Add your function to the list here
-NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck]
-
+NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie]
 
 # Don't edit this
 for f in NAME_FUNCTIONS:
