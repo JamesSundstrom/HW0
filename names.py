@@ -24,6 +24,10 @@ def anis():
     l = [65, 110, 105, 115]
     return''.join(chr(i) for i in l)
 
+def jimmy():
+    letter = [106,105,109,109,121]
+    return ''.join(chr(letter) for l in letter)
+
 def gregory():
     letters = [71, 114, 101, 103, 111, 114, 121]
     return ''.join(chr(letter) for letter in letters)
