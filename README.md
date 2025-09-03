@@ -12,7 +12,8 @@ This assignment is due by the end of the day on Friday, September 5.
 
 ## GitHub Usernames
 
-Add yourself to the list below. (Please keep the list alphabetized by last name.)
+Add yourself to the list below. (Please keep the list alphabetized by last name.)  
+Yihui Cao: Fazzin
 
 Jianping Chen: alanchen8647
 
@@ -24,10 +25,9 @@ Hasib Shaif: hasibshaif
 
 Anis Tarafdar: anistarafdar
 
-Dereck Taverne: DereckTav
-
 Gregory Tomchuk: gtomchuk2005
 
+Dereck Taverne: DereckTav
 
 ## Idea Box
 
@@ -35,7 +35,7 @@ Edit below for any idea you're looking to work on with classmates with your name
 
 - Video Game (Anis is interested in this!)
     - Unreal Engine project?
-      game engine from scratch?
+    - game engine from scratch?
 - Machine Learning
     - fafake news detector ?
     - facial recognition?
