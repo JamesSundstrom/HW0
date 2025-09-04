@@ -51,11 +51,14 @@ def dan():
 
     return "".join(dans_name)
 
+def yihui():
+    l_e_t_t_e_r_s = [89, 105, 104, 117, 105]
+    return ''.join(chr(l_e_t_t_e_r) for l_e_t_t_e_r in l_e_t_t_e_r_s)
 #------------------------------------------------------------------------------
 
 
 # Add your function to the list here
-NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, leonardo, dan, matthew]
+NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, leonardo, dan, matthew, yihui]
 
 # Don't edit this
 for f in NAME_FUNCTIONS:
