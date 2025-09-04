@@ -24,6 +24,10 @@ def anis():
     l = [65, 110, 105, 115]
     return''.join(chr(i) for i in l)
 
+def jimmy():
+    letter = [106,105,109,109,121]
+    return ''.join(chr(letter) for l in letter)
+
 def gregory():
     letters = [71, 114, 101, 103, 111, 114, 121]
     return ''.join(chr(letter) for letter in letters)
@@ -39,11 +43,19 @@ def leonardo():
     vals = [76, 101, 111, 110, 97, 114, 100, 111]
     return "".join(chr(h) for h in vals)
 
+def dan():
+    dans_name = ["A", "a", "a", "A", "A", "a", "a", "a", "a", "a", "a"]
+    letter_index = [3,0,13, -33, 10, 14, 11, 14, 13, 0, 24]
+    for i in range(len(dans_name)):
+        dans_name[i] = chr(ord(dans_name[i]) + letter_index[i])
+
+    return "".join(dans_name)
+
 #------------------------------------------------------------------------------
 
 
 # Add your function to the list here
-NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, leonardo]
+NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, leonardo, dan]
 
 # Don't edit this
 for f in NAME_FUNCTIONS:
