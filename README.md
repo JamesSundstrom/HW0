@@ -36,6 +36,8 @@ Gregory Tomchuk: gtomchuk2005
 
 Dereck Taverne: DereckTav
 
+Samuel Hanono: SamuelHanono
+
 ## Idea Box
 
 Edit below for any idea you're looking to work on with classmates with your name next to it. Feel free to be as broad or descriptive for your idea for now. Listed below are just suggestions of ideas
@@ -50,3 +52,11 @@ Edit below for any idea you're looking to work on with classmates with your name
 - Web App
   - light weight messaging client
   - ???
+- Market Micro-Alpha — ML-guided Pairs Trading (Samuel Hanono)
+    Goal: Predict mean-reversion of price spreads; small, fun, interpretable.
+    Data: Daily stocks/ETFs via yfinance.
+    Features: Spread z-score, rolling β, residuals, half-life, RSI(spread), vol.
+    Pair pick: Engle–Granger/Johansen cointegration tests.
+    Models: Logistic (baseline); Gradient Boosting / Random Forest.
+    Signal: Enter |z| ≥ 2 & model-prob > τ; exit at mean or T+5; size by ATR; costs 2–5 bps.
+    Backtest: Walk-forward by year; ≤5 concurrent pairs; position limits.

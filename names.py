@@ -54,11 +54,14 @@ def dan():
 def yihui():
     l_e_t_t_e_r_s = [89, 105, 104, 117, 105]
     return ''.join(chr(l_e_t_t_e_r) for l_e_t_t_e_r in l_e_t_t_e_r_s)
+
+def samuel_hanono(): # Build via ASCII codes 
+    return ''.join(map(chr, (83, 97, 109, 117, 101, 108, 32, 72, 97, 110, 111, 110, 111)))
 #------------------------------------------------------------------------------
 
 
 # Add your function to the list here
-NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, leonardo, dan, matthew, yihui]
+NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, leonardo, dan, matthew, yihui, samuel_hanono]
 
 # Don't edit this
 for f in NAME_FUNCTIONS:
