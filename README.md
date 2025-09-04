@@ -14,6 +14,8 @@ This assignment is due by the end of the day on Friday, September 5. For full cr
 
 Add yourself to the list below. (Please keep the list alphabetized by last name.)
 
+Yihui Cao: Fazzin
+
 Jianping Chen: alanchen8647
 
 Leonardo Cuapio: leocuapio
