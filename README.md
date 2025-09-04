@@ -22,12 +22,16 @@ Dan Kolonay: dkolonay
 
 Ronnie Ng: ronnien6313
 
+Jimmy Qu: jimmy-qu
+
 James Sundstrom: JamesSundstrom
 
 Hasib Shaif: hasibshaif
 
 Anis Tarafdar: anistarafdar
+
 Gregory Tomchuk: gtomchuk2005
+
 Dereck Taverne: DereckTav
 
 ## Idea Box
