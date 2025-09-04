@@ -27,24 +27,20 @@ James Sundstrom: JamesSundstrom
 Hasib Shaif: hasibshaif
 
 Anis Tarafdar: anistarafdar
-
-Dereck Taverne: DereckTav
-
 Gregory Tomchuk: gtomchuk2005
-
+Dereck Taverne: DereckTav
 
 ## Idea Box
 
 Edit below for any idea you're looking to work on with classmates with your name next to it. Feel free to be as broad or descriptive for your idea for now. Listed below are just suggestions of ideas
 
 - Video Game (Anis is interested in this!)
-    - Unreal Engine project?
-      game engine from scratch?
+  - Unreal Engine project?
+  - game engine from scratch?
 - Machine Learning
-    - fafake news detector ?
-    - facial recognition?
-    - image upscaling?
+  - fafake news detector ?
+  - facial recognition?
+  - image upscaling?
 - Web App
-    - light weight messaging client
-    - ???
-
+  - light weight messaging client
+  - ???
