@@ -8,33 +8,43 @@
 
 Note: Since I don't have your GitHub usernames yet, I can't add you as collaborators, so you won't be able to edit my files. You can make your own fork and submit a pull request. After that, I can add you as a collaborator so you can make further changes without waiting for my approval, if you want.
 
-This assignment is due by the end of the day on Friday, September 5.
+This assignment is due by the end of the day on Friday, September 5. For full credit, make sure that you've followed all of the instructions, and that your contributions are formatted appropriately.
 
 ## GitHub Usernames
 
 Add yourself to the list below. (Please keep the list alphabetized by last name.)
 
 Jianping Chen: alanchen8647
-Jimmy Qu: jimmy-qu
-James Sundstrom: JamesSundstrom
-Hasib Shaif: hasibshaif
-Anis Tarafdar: anistarafdar
-Gregory Tomchuk: gtomchuk2005
-Dereck Taverne: DereckTav
 
+Leonardo Cuapio: leocuapio
+
+Dan Kolonay: dkolonay
+
+Ronnie Ng: ronnien6313
+
+Jimmy Qu: jimmy-qu
+
+James Sundstrom: JamesSundstrom
+
+Hasib Shaif: hasibshaif
+
+Anis Tarafdar: anistarafdar
+
+Gregory Tomchuk: gtomchuk2005
+
+Dereck Taverne: DereckTav
 
 ## Idea Box
 
 Edit below for any idea you're looking to work on with classmates with your name next to it. Feel free to be as broad or descriptive for your idea for now. Listed below are just suggestions of ideas
 
 - Video Game (Anis is interested in this!)
-    - Unreal Engine project?
-    - game engine from scratch?
+  - Unreal Engine project?
+  - game engine from scratch?
 - Machine Learning
-    - fafake news detector ?
-    - facial recognition?
-    - image upscaling?
+  - fafake news detector ?
+  - facial recognition?
+  - image upscaling?
 - Web App
-    - light weight messaging client
-    - ???
-
+  - light weight messaging client
+  - ???
