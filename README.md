@@ -8,7 +8,7 @@
 
 Note: Since I don't have your GitHub usernames yet, I can't add you as collaborators, so you won't be able to edit my files. You can make your own fork and submit a pull request. After that, I can add you as a collaborator so you can make further changes without waiting for my approval, if you want.
 
-This assignment is due by the end of the day on Friday, September 5.
+This assignment is due by the end of the day on Friday, September 5. For full credit, make sure that you've followed all of the instructions, and that your contributions are formatted appropriately.
 
 ## GitHub Usernames
 
