@@ -9,7 +9,7 @@ def james():
 
 def mario():
     start: int = 100
-    jumps: list[int] = [9, -3, 14, 5, 11, -1, 11, 0, 1, 15, 2, 11, 14, 2, 17, 10]
+    jumps: list[int] = [9, -3, 14, 5, 11]
     return ''.join(chr(start + j) for j in jumps).capitalize()
 
 def hasib():

@@ -38,6 +38,8 @@ Dereck Taverne: DereckTav
 
 Samuel Hanono: SamuelHanono
 
+Mario Gegprifti: mariocodesforfun
+
 ## Idea Box
 
 Edit below for any idea you're looking to work on with classmates with your name next to it. Feel free to be as broad or descriptive for your idea for now. Listed below are just suggestions of ideas
