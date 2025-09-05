@@ -36,6 +36,10 @@ def dereck():
     ascii = [68, 101, 114, 101, 99, 107]
     return ''.join(chr(val) for val in ascii)
 
+def ronnie(): 
+    l = [114,111,110,110,105,101] 
+    return ''.join(chr(i) for i in l)
+
 def matthew(): 
     l = [77, 65, 84, 84, 72, 69, 87] 
     res = "" 
