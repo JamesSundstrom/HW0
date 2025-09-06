@@ -65,11 +65,15 @@ def yihui():
 
 def samuel_hanono(): # Build via ASCII codes 
     return ''.join(map(chr, (83, 97, 109, 117, 101, 108, 32, 72, 97, 110, 111, 110, 111)))
+
+def nabil():
+    ascii_nums = [78, 97, 98, 105, 108]
+    return "".join(chr(l) for l in ascii_nums)
 #------------------------------------------------------------------------------
 
 
 # Add your function to the list here
-NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, leonardo, dan, matthew, yihui, samuel_hanono]
+NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, leonardo, dan, matthew, nabil, yihui, samuel_hanono]
 
 # Don't edit this
 for f in NAME_FUNCTIONS:
