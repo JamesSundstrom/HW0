@@ -20,6 +20,8 @@ Jianping Chen: alanchen8647
 
 Leonardo Cuapio: leocuapio
 
+Nabil Hasan: NabilHasan09
+
 Dan Kolonay: dkolonay
 
 Ronnie Ng: ronnien6313
@@ -39,6 +41,8 @@ Dereck Taverne: DereckTav
 Samuel Hanono: SamuelHanono
 
 Mario Gegprifti: mariocodesforfun
+
+
 
 ## Idea Box
 
