@@ -69,11 +69,15 @@ def samuel_hanono(): # Build via ASCII codes
 def nabil():
     ascii_nums = [78, 97, 98, 105, 108]
     return "".join(chr(l) for l in ascii_nums)
+
+def daniel():
+    array = [68, 97, 110, 105, 101, 108]
+    return "".join(chr(i) for i in array)
 #------------------------------------------------------------------------------
 
 
 # Add your function to the list here
-NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, leonardo, dan, matthew, nabil, yihui, samuel_hanono]
+NAME_FUNCTIONS = [james, mario, hasib, jian, anis, gregory, dereck, ronnie, leonardo, dan, matthew, nabil, yihui, samuel_hanono, daniel]
 
 # Don't edit this
 for f in NAME_FUNCTIONS:
